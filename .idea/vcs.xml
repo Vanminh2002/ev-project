@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auth-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/central-logging-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/charging-profile-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/charging-session-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/charging-station-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/charging-station-simulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configuration-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diagnostics-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firmware-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heartbeat-monitor-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metering-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notification-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ocpp-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/remote-trigger-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reservation-service" vcs="Git" />
+  </component>
+</project>
