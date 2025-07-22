@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987974a3-fa87-4bc0-b021-68c9e7dcf3ca" name="Changes" comment="" />
+    <list default="true" id="987974a3-fa87-4bc0-b021-68c9e7dcf3ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ocpp-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ocpp-server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ocpp-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ocpp-server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +83,7 @@
       <updated>1753155343243</updated>
       <workItem from="1753155344724" duration="1351000" />
       <workItem from="1753158182986" duration="13000" />
-      <workItem from="1753158215849" duration="547000" />
+      <workItem from="1753158215849" duration="1223000" />
     </task>
     <servers />
   </component>
